@@ -9,5 +9,4 @@
 ## Reporting a Vulnerability
 
 If you find a vulnerability, go to issues and report the vunerability there. 
-If it is accepted, the issue may be marked as a
-bug. If declined, it will be deleted.
+If it is accepted, the issue may be marked as sercurity. If declined, it will be deleted.
