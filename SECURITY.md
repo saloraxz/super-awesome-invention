@@ -2,13 +2,12 @@
 
 ## Supported Versions
 
-Use this section to tell people about which versions of your project are
-currently being supported with security updates.
-
 | Version | Supported          |
 | ------- | ------------------ |
 | v1.0.0  | :white_check_mark: | (Current Version)
 
 ## Reporting a Vulnerability
 
-If you find a vulnerability, go to issues and 
+If you find a vulnerability, go to issues and report the vunerability there. 
+If it is accepted, the issue may be marked as a
+bug. If declined, it will be deleted.
