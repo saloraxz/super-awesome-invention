@@ -3,7 +3,56 @@ Netbeans Project Anagram01
 
 Unscrambled and Scrambled words are in the following directory:
 
-`memesggopoop28/super-awesome-invention/src/com/toy/anagrams/lib/StaticWordLibrary.java`
+```memesggopoop28/super-awesome-invention/src/com/toy/anagrams/lib/StaticWordLibrary.java```
+
+Look at this list (Alphabetical Order):
+* abstraction 
+* ambiguous  
+* arithmetic 
+* backslash 
+* bitmap 
+* circumstance 
+* combination 
+* consequently 
+* consortium 
+* decrementing 
+* dependency 
+* dictionary 
+* disambiguate 
+* dynamic 
+* encapsulation 
+* equivalent 
+* expression 
+* facilitate 
+* fragment 
+* hexadecimal 
+* hotjava 
+* implementation 
+* indistinguishable 
+* inheritance 
+* internet 
+* java 
+* lexical 
+* likewise 
+* localization 
+* management 
+* manipulate 
+* mathematics 
+* microprocessor 
+* navigation 
+* optimization 
+* parameter 
+* patrick 
+* pickle 
+* polymorphic 
+* rigorously 
+* simultaneously 
+* specification 
+* structure 
+* thesaurus 
+* traditional 
+* unsigned 
+* vertex
 
 Alternatively, look at the code below:
 
@@ -110,3 +159,4 @@ final class StaticWordLibrary extends WordLibrary {
     };
 }
 ```
+
