@@ -1,9 +1,13 @@
 # super-awesome-invention
 Netbeans Project Anagram01
 
+***
+
 Unscrambled and Scrambled words are in the following directory:
 
 ```memesggopoop28/super-awesome-invention/src/com/toy/anagrams/lib/StaticWordLibrary.java```
+
+***
 
 Look at this list (Alphabetical Order):
 * abstraction 
