@@ -58,7 +58,7 @@ public class Anagrams extends JFrame {
         scrambledWord.setText(wordLibrary.getScrambledWord(wordIdx));
         pack();
         guessedWord.requestFocusInWindow();
-        // Center in the screen
+        // Center in the screen (If it works...)
         Dimension screenSize = Toolkit.getDefaultToolkit().getScreenSize();
         Dimension frameSize = getSize();
         setLocation(new Point((screenSize.width - frameSize.width) / 2,
